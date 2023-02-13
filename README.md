@@ -16,9 +16,9 @@ This is a solution to the [The Odin Project Landing Page - Foundations Course](h
 
 ### Screenshots
 
-![](/images/Index%-%Generic%Laptop%-%1.jpg)
-![](/images/Index%-%Generic%Laptop%-%2.jpg)
-![](/images/Index%-%Generic%Laptop%-%3.jpg)
+![](/images/Index%20-%20Generic%20Laptop%20-1.jpg)
+![](/images/Index%20-%20Generic%20Laptop%20-%202.jpg)
+![](/images/Index%20-%20Generic%20Laptop%20-%203.jpg)
 
 ### Links
 
